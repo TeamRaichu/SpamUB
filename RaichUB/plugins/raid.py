@@ -5,7 +5,8 @@ import os
 import random
 from telethon import events
 from telethon import functions, types
-from telethon.tl.functions.messages import ImportChatInviteRequest import Sex, Sex2, Sex3, Sex4, Sex5 , Sex6, Sex7, Sex8, Sex9, Sex10, Sex11, Sex12, Sex13, Sex14, Sex15, Sex16, Sex17, Sex18, Sex19, Sex20, Sex21, Sex22, Sex23, Sex24, Sex25, Sex26, Sex27, Sex28, Sex29, Sex30, Sex31, Sex32, Sex33, Sex34, Sex35, Sex36, Sex37, Sex38, Sex39, Sex40, SUDO_USERS
+from telethon.tl.functions.messages import ImportChatInviteRequest
+from RaichUB import Sex, Sex2, Sex3, Sex4, Sex5 , Sex6, Sex7, Sex8, Sex9, Sex10, Sex11, Sex12, Sex13, Sex14, Sex15, Sex16, Sex17, Sex18, Sex19, Sex20, Sex21, Sex22, Sex23, Sex24, Sex25, Sex26, Sex27, Sex28, Sex29, Sex30, Sex31, Sex32, Sex33, Sex34, Sex35, Sex36, Sex37, Sex38, Sex39, Sex40, SUDO_USERS
 from resources.data import RAID, REPLYRAID, RaichUB
 from .. import CMD_HNDLR as hl
 
